@@ -35,11 +35,11 @@ As a Junior Fullstack Developer, I specialize in:
 🎓 Education
 My educational journey began at:
 
-Banibaid A.A.M.P. High School, Sreebardi, Sherpur (SSC)
+✔️ Banibaid A.A.M.P. High School, Sreebardi, Sherpur (SSC)
 
-Agricultural University College, Mymensingh (HSC)
+✔️ Agricultural University College, Mymensingh (HSC)
 
-I am currently pursuing B.Sc. in Computer Science and Engineering at the International University of Business Agriculture and Technology (IUBAT).
+✔️ I am currently pursuing B.Sc. in Computer Science and Engineering at the International University of Business Agriculture and Technology (IUBAT).
 My academic background, paired with a deep focus on technology, enhances my analytical thinking and technical precision.
 
 🌐 Let’s Connect
