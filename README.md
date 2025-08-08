@@ -1,18 +1,78 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shorifuzzaman2020&label=Profile%20views&color=0e75b6&style=flat" alt="shorifuzzaman2020" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/md-shorifuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-shorifuzzaman" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/md.shorifuzzaman.847390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.shorifuzzaman.847390" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/zR0dZgy/github-banner.png" alt="GitHub Profile Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Title & Intro -->
+<h1 align="center">Hi 👋, I'm Md. Shorifuzzaman</h1>
+<h3 align="center">🚀 Fullstack MERN Developer | Problem Solver | Mentor</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shorifuzzaman2020&show_icons=true&locale=en&layout=compact" alt="shorifuzzaman2020" /></p>
+<p align="center">
+  <a href="https://github.com/Shorifuzzaman2020?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shorifuzzaman2020?label=Followers&style=social" alt="followers"/>
+  </a>
+  <a href="https://github.com/Shorifuzzaman2020">
+    <img src="https://komarev.com/ghpvc/?username=Shorifuzzaman2020&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shorifuzzaman2020&show_icons=true&locale=en" alt="shorifuzzaman2020" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shorifuzzaman2020&" alt="shorifuzzaman2020" /></p>
+## 🚀 About Me
+- 💻 Passionate **Fullstack MERN Developer** with a love for solving real-world problems  
+- 🌱 Currently exploring **Next.js** and **AI-integrated web apps**  
+- 🎯 Goal: Build scalable, user-friendly, and impactful applications  
+- ⚡ Fun fact: I debug my code faster with coffee ☕
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Frontend-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Backend-Express.js-grey?style=for-the-badge&logo=express" />
+  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Tools-Git-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Tools-Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shorifuzzaman2020&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shorifuzzaman2020&theme=radical" alt="streak stats" height="165" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+- 🚀 **[Scholarship Management System](https://github.com/Shorifuzzaman2020/Scholarship-Management-System)** — A MERN-based platform for managing scholarships
+- 🧠 **[Diabetes Risk Prediction with Deep Learning](https://github.com/Shorifuzzaman2020/Diabetes-Risk-Prediction)** — Predict 5-year risk of T2DM using clinical and lifestyle attributes
+- 💼 **[Portfolio Website](https://github.com/Shorifuzzaman2020/Portfolio)** — Personal portfolio with modern UI/UX
+
+---
+
+## 📬 Let's Connect
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/Shorifuzzaman2020">Shorifuzzaman2020</a></p>
