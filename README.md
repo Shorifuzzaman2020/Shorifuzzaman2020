@@ -42,6 +42,15 @@ Whether you're a company in search of dedicated developers, or a developer looki
 
 Let’s build something meaningful — in code, in careers, and in the tech community. 🚀
 ---
+---
+
+## 📌 Current Activities
+- 🌱 Exploring **Next.js** and advanced server-side rendering techniques  
+- 🏝️ Developing a **Tourism Website** using the MERN stack  
+- 🤖 Experimenting with **AI integration** in web applications  
+- 📚 Continuously improving my problem-solving skills through competitive programming  
+
+---
 
 ## 🛠 Tech Stack
 
