@@ -82,8 +82,8 @@ Let’s build something meaningful — in code, in careers, and in the tech comm
 ---
 
 ## 🌟 Featured Projects
-- 🚀 **[Scholarship Management System](https://github.com/Shorifuzzaman2020/Scholarship-Management-System)** — A MERN-based platform for managing scholarships
-- 🧠 **[Diabetes Risk Prediction with Deep Learning](https://github.com/Shorifuzzaman2020/Diabetes-Risk-Prediction)** — Predict 5-year risk of T2DM using clinical and lifestyle attributes
+- 🚀 **[Scholarship Management System](https://scholarship-handle.web.app/)** — A MERN-based platform for managing scholarships
+- 🧠 **[Tutor searching and getting](https://fir-auth-5fe90.web.app/)** — A MERN-based platform for managing tution of tutors and students
 - 💼 **[Portfolio Website](https://github.com/Shorifuzzaman2020/Portfolio)** — Personal portfolio with modern UI/UX
 
 ---
