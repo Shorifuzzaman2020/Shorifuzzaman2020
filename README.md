@@ -45,9 +45,6 @@ My academic background, paired with a deep focus on technology, enhances my anal
 🌐 Let’s Connect
 Whether you're a company in search of dedicated developers, or a developer looking to level up your career — I’d love to connect and collaborate.
 
-📧 Email: shorifuzzamansoil2020@gmail.com
-📱 WhatsApp: +8801996386373
-
 Let’s build something meaningful — in code, in careers, and in the tech community. 🚀
 ---
 
