@@ -68,7 +68,7 @@ Let’s build something meaningful — in code, in careers, and in the tech comm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shorifuzzaman2020&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shorifuzzaman2020&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shorifuzzaman2020&theme=radical" alt="streak stats" height="165" />
 </p>
 
