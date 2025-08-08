@@ -24,7 +24,7 @@
 - 🎯 Goal: Build scalable, user-friendly, and impactful applications  
 - ⚡ Fun fact: I debug my code faster with coffee ☕
 
-## 🎓 Education
+-🎓 Education
 My educational journey began at:
 
 ✔️ Banibaid A.A.M.P. High School, Sreebardi, Sherpur (SSC)
