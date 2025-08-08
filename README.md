@@ -24,17 +24,6 @@
 - 🎯 Goal: Build scalable, user-friendly, and impactful applications  
 - ⚡ Fun fact: I debug my code faster with coffee ☕
 
-- 🎓 **Education**
-
-My educational journey began at:
-
-✔️ Banibaid A.A.M.P. High School, Sreebardi, Sherpur (SSC)
-
-✔️ Agricultural University College, Mymensingh (HSC)
-
-✔️ I am currently pursuing B.Sc. in Computer Science and Engineering at the International University of Business Agriculture and Technology (IUBAT).
-My academic background, paired with a deep focus on technology, enhances my analytical thinking and technical precision.
-
 🌐 Let’s Connect
 Whether you're a company in search of dedicated developers, or a developer looking to level up your career — I’d love to connect and collaborate.
 - ✔️ Phone: 01996386373
