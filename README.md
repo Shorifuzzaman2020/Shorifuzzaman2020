@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I debug my code faster with coffee ☕
 
 - 🎓 Education
-- 
+
 My educational journey began at:
 
 ✔️ Banibaid A.A.M.P. High School, Sreebardi, Sherpur (SSC)
