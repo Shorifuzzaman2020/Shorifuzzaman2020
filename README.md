@@ -23,7 +23,33 @@
 - 🌱 Currently exploring **Next.js** and **AI-integrated web apps**  
 - 🎯 Goal: Build scalable, user-friendly, and impactful applications  
 - ⚡ Fun fact: I debug my code faster with coffee ☕
+ 
+⚙️ Technical Expertise
+As a Junior Fullstack Developer, I specialize in:
+✔️MERN Stack (MongoDB, Express.js, React.js, Node.js)
+✔️JavaScript (ES6+)
 
+I like designing simple, accessible, responsive, and user-friendly interfaces. I have created useful, interactive websites for my learning purposes. I’m always eager to learn new technologies and improve my skills. I am currently focusing on advancing my skills in MERN stack development to build dynamic, full-stack web applications.
+
+I enjoy writing clean, scalable code and turning complex problems into elegant solutions.
+
+🎓 Education
+My educational journey began at:
+
+Banibaid A.A.M.P. High School, Sreebardi, Sherpur (SSC)
+
+Agricultural University College, Mymensingh (HSC)
+
+I am currently pursuing B.Sc. in Computer Science and Engineering at the International University of Business Agriculture and Technology (IUBAT).
+My academic background, paired with a deep focus on technology, enhances my analytical thinking and technical precision.
+
+🌐 Let’s Connect
+Whether you're a company in search of dedicated developers, or a developer looking to level up your career — I’d love to connect and collaborate.
+
+📧 Email: shorifuzzamansoil2020@gmail.com
+📱 WhatsApp: +8801996386373
+
+Let’s build something meaningful — in code, in careers, and in the tech community. 🚀
 ---
 
 ## 🛠 Tech Stack
