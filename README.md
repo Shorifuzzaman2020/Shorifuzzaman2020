@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/zR0dZgy/github-banner.png" alt="GitHub Profile Banner" width="100%" />
+  <img src="https://i.ibb.co.com/6J4SmZjd/Blue-Modern-and-Simple-Digital-Marketing-Facebook-Cover.png" alt="GitHub Profile Banner" width="100%" />
 </p>
 
 <!-- Title & Intro -->
