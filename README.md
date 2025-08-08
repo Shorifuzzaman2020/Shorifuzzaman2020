@@ -26,12 +26,12 @@
  
 ⚙️ Technical Expertise
 As a Junior Fullstack Developer, I specialize in:
-✔️MERN Stack (MongoDB, Express.js, React.js, Node.js)
-✔️JavaScript (ES6+)
+- ✔️MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- ✔️JavaScript (ES6+)
 
-I like designing simple, accessible, responsive, and user-friendly interfaces. I have created useful, interactive websites for my learning purposes. I’m always eager to learn new technologies and improve my skills. I am currently focusing on advancing my skills in MERN stack development to build dynamic, full-stack web applications.
+- I like designing simple, accessible, responsive, and user-friendly interfaces. I have created useful, interactive websites for my learning purposes. I’m always eager to learn new technologies and improve my skills. I am currently focusing on advancing my skills in MERN stack development to build dynamic, full-stack web applications.
 
-I enjoy writing clean, scalable code and turning complex problems into elegant solutions.
+- I enjoy writing clean, scalable code and turning complex problems into elegant solutions.
 
 🎓 Education
 My educational journey began at:
