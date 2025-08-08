@@ -44,6 +44,8 @@ My academic background, paired with a deep focus on technology, enhances my anal
 
 🌐 Let’s Connect
 Whether you're a company in search of dedicated developers, or a developer looking to level up your career — I’d love to connect and collaborate.
+✔️ Phone: 01996386373
+✔️ Email: shorifuzzamansoil2020@gmail.com
 
 Let’s build something meaningful — in code, in careers, and in the tech community. 🚀
 ---
