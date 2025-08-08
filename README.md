@@ -84,7 +84,7 @@ Let’s build something meaningful — in code, in careers, and in the tech comm
 ## 🌟 Featured Projects
 - 🚀 **[Scholarship Management System](https://scholarship-handle.web.app/)** — A MERN-based platform for managing scholarships
 - 🧠 **[Tutor searching and getting](https://fir-auth-5fe90.web.app/)** — A MERN-based platform for managing tution of tutors and students
-- 💼 **[Portfolio Website](https://github.com/Shorifuzzaman2020/Portfolio)** — Personal portfolio with modern UI/UX
+- 💼 **[Portfolio Website](https://shorifuzzaman2020.github.io/simple-portfolio/)** — Personal portfolio with HTML and CSS
 
 ---
 
